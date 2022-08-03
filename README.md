@@ -10,3 +10,4 @@ Projeto de finalização do bloco de Back-end desenvolvido durante o curso da [T
 - Testes com mocha, chai e sinon.
 - MySQL
 - Sequelize
+- Arquitetura MSC
